@@ -15,7 +15,6 @@ VO~2max~
 This is my first change
 
 
-This is my second change
-
+This is my second change, with some extra information
 
 
